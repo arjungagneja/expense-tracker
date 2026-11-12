@@ -1,0 +1,21 @@
+
+# Compiled files
+*.o
+*.out
+*.exe
+*.a
+*.dylib
+*.dSYM/
+
+# Local executable
+backend/expense_tracker
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
